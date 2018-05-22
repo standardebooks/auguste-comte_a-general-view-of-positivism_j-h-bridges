@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/auguste-comte/a-general-view-of-positivism/j-h-bridges</dc:identifier>
 		<dc:date>2018-05-22T18:19:15Z</dc:date>
-		<meta property="dcterms:modified">2018-05-22T18:19:15Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2018-05-22T18:51:32Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -74,7 +74,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79060295</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Josep Cols Canals</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Canals, Josep COls</meta>
+		<meta property="file-as" refines="#transcriber-1">Canals, Josep Cols</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Charlie Howard</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Howard, Charlie</meta>
