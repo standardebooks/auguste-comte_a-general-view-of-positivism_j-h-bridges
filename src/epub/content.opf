@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85100849</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:abstract>A brief overview of the goals and methods of the Positivist philosophical movement.</dc:abstract>
+		<meta property="schema:abstract">A brief overview of the goals and methods of the Positivist philosophical movement.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/auguste-comte"&gt;Auguste Comte&lt;/a&gt;, considered by some to be the first “philosopher of science,” was perhaps most famous for founding the theory of Positivism: a framework of thinking and living meant to engender unity across humanity, backed by love, science, and intellect.&lt;/p&gt;
 			&lt;p&gt;Positivism itself is a combination philosophy and way of life. Here Comte lays down the various tenets of the philosophy, describing what he views as the six major characteristics of the system. Comte goes into surprising detail, going so far as to describe minutiae like how children should be educated, the structure of a unified global committee of nations, new flags, calendars, the role of the arts, and so on. He ends the book with what he calls the “Religion of Humanity,” a secular religion meant to replace the traditional religions that people of the time were becoming disillusioned with.&lt;/p&gt;
